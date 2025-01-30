@@ -10,12 +10,17 @@ Timeline of important historical events
 2024-11-14    Ahoo Daryaei responded in protest by removing her clothes
 2024-11-13    Kianush Sanjari died
 2024-11-05    2024 United States presidential election (Trump vs Kamala)
+2024-10-26    October 2024 Israeli strikes on Iran
 2024-10-16    Yahya Sinwar died
+2024-10-01    October 2024 Iranian strikes against Israel (Operation True Promise 2)
 2024-09-27    Hassan Nasrallah died
 2024-07-31    Ismail Haniyeh died
 2024-06-28    2024 Iranian presidential election 1403 (Pezeshkian vs Jalili)
 2024-05-19    Ebrahim Raisi died
 2024-05-13    GPT-4o launched
+2024-04-19    April 2024 Israeli strikes on Iran
+2024-04-13    April 2024 Iranian strikes against Israel (Operation True Promise)
+2024-04-01    Israeli airstrike on the Iranian consulate in Damascus
 2024-01-23    Mohammad Ghobadlou executed
 2024-01-03    2024 Kerman bombings
 2023-11-29    Henry Kissinger died
