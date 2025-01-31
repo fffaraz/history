@@ -142,11 +142,12 @@ Timeline of important historical events
 1998-08-23    Asadollah Lajevardi assassinated
 1998-08-08    1998 killing of Iranian diplomats in Afghanistan
 1998-04-04    Gholamhossein Karbaschi arrested
+1997-12-15    Ebrahim Yazdi arrested
 1997-05-23    1997 Iranian presidential election 1376 (2 Khordad) (Khatami vs Nategh-Nouri)
 1997-02-22    Ebrahim Zalzadeh murdered (Chain murders of Iran)
 1997-01-15    Ahmad Tafazzoli murdered (Chain murders of Iran)
 1996-11-05    1996 United States presidential election (Clinton vs Dole)
-1995
+1995-01-20    Mehdi Bazargan died
 1994-11-28    Ali-Akbar Sa'idi Sirjani murdered (Chain murders of Iran)
 1994-06-20    Imam Reza shrine bombing
 1994-06-24    Mehdi Dibaj abducted (Chain murders of Iran)
@@ -177,7 +178,9 @@ Timeline of important historical events
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
 1983
-1982
+1982-09-16    Sadegh Ghotbzadeh executed
+1982-05-24    Liberation of Khorramshahr
+1982-04-08    Sadegh Ghotbzadeh arrested
 1981-12-15    1981 Iraqi embassy bombing in Beirut
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
 1981-09-29    1981 Iranian Air Force C-130 crash
@@ -189,6 +192,7 @@ Timeline of important historical events
 1981-04-04    H-3 airstrike
 1981-01-20    Iran hostage crisis end
 1980-11-27    Operation Morvarid
+1980-11-07    Sadegh Ghotbzadeh first arrested
 1980-11-04    1980 United States presidential election (Reagan vs Carter)
 1980-09-30    Operation Scorch Sword (Iran attacked Baghdad Nuclear Research Facility)
 1980-09-22    Iraqi invasion of Iran
@@ -210,17 +214,20 @@ Timeline of important historical events
 1979-02-10    Bakhtiar announces country-wide curfew and martial law
 1979-02-04    Khomeini appoints Mehdi Bazargan as the prime minister
 1979-02-03    Robert E. Huyser departed Iran
+1979-02-02    several foreign embassies in Tehran were over-run
 1979-02-01    Khomeini returns to Iran from France after fifteen years of exile
 1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
 1979-01-04    President Jimmy Carter sent Robert E. Huyser to Iran
 1979-01-04    Shapour Bakhtiar replaces Gholamreza Azhari
 1978-12-29    The Shah appoints Shapour Bakhtiar as prime minister
 1978-11-06    Prime Minister Sharif-Emami resigns, succeeded by Gen. Gholamreza Azhari
-1978-10-03    Khomeini travels to France from Iraq
+1978-10-03    Khomeini deported from Iraq and travels to France
 1978-09-08    Black Friday (17 Shahrivar 1357)
 1978-08-31    Musa al-Sadr went missing
 1978-08-27    Prime Minister Jamshid Amouzegar resigns, succeeded by Jafar Sharif-Emami
 1978-08-19    Cinema Rex fire
+1978-04-08    Bazargan's house in Tehran was bombed
+1977-10-23    Mostafa Khomeini died at age 47 in Najaf, Iraq 
 1977-08-07    Jamshid Amouzegar replaces Amir-Abbas Hoveyda
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1976-09-09    Mao Zedong died
@@ -228,6 +235,7 @@ Timeline of important historical events
 1974-08-08    President Nixon resigned, Gerald Ford assumed the presidency
 1973-09-11    1973 Chilean coup d'état
 1972-11-07    1972 United States presidential election (Nixon vs McGovern)
+1971-10       2,500-year celebration of the Persian Empire
 1971-09-11    Nikita Khrushchev died
 1971-08-15    Nixon ends convertibility of U.S. dollars to gold and announces wage/price controls
 1971-06-28    Elon Musk birthday
@@ -239,7 +247,9 @@ Timeline of important historical events
 1967-03-05    Mohammad Mosaddegh died
 1967-02-13    Forugh Farrokhzad died
 1966
+1965-09-05    Khomeini moved to Najaf, Iraq
 1965-01-21    Hassan Ali Mansur assassinated
+1964-11-04    Khomeini was secretly taken to Turkey
 1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
 1964-01-12    Jeff Bezos birthday
 1963-11-22    John F. Kennedy assassinated
@@ -501,6 +511,7 @@ Timeline of important historical events
 
 * https://en.wikipedia.org/wiki/List_of_monarchs_of_Iran
 * https://en.wikipedia.org/wiki/List_of_richest_Americans_in_history
+* https://www.brookings.edu/articles/the-iranian-revolution-a-timeline-of-events/
 * https://en.wikipedia.org/wiki/2011%E2%80%932012_Iranian_protests
 * https://en.wikipedia.org/wiki/2017%E2%80%932018_Iranian_protests
 * https://en.wikipedia.org/wiki/2019%E2%80%932020_Iranian_protests
