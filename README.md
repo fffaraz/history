@@ -206,13 +206,22 @@ Timeline of important historical events
 1979-09-09    Taleghani died
 1979-04-23    Mohammad-Vali Gharani executed
 1979-04-07    Amir-Abbas Hoveyda executed
-1979-02-11    22 Bahman 1357
+1979-02-11    The armed forces declare neutrality, and any remnants of the Shah’s government collapse (22 Bahman 1357)
+1979-02-10    Bakhtiar announces country-wide curfew and martial law
+1979-02-04    Khomeini appoints Mehdi Bazargan as the prime minister
+1979-02-03    Robert E. Huyser departed Iran
 1979-02-01    Khomeini returns to Iran from France after fifteen years of exile
 1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
+1979-01-04    President Jimmy Carter sent Robert E. Huyser to Iran
+1979-01-04    Shapour Bakhtiar replaces Gholamreza Azhari
+1978-12-29    The Shah appoints Shapour Bakhtiar as prime minister
+1978-11-06    Prime Minister Sharif-Emami resigns, succeeded by Gen. Gholamreza Azhari
+1978-10-03    Khomeini travels to France from Iraq
 1978-09-08    Black Friday (17 Shahrivar 1357)
 1978-08-31    Musa al-Sadr went missing
+1978-08-27    Prime Minister Jamshid Amouzegar resigns, succeeded by Jafar Sharif-Emami
 1978-08-19    Cinema Rex fire
-1977
+1977-08-07    Jamshid Amouzegar replaces Amir-Abbas Hoveyda
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1976-09-09    Mao Zedong died
 1975-04-30    Vietnam War end
