@@ -193,16 +193,20 @@ Timeline of important historical events
 1980-09-30    Operation Scorch Sword (Iran attacked Baghdad Nuclear Research Facility)
 1980-09-22    Iraqi invasion of Iran
 1980-07-27    Shah Mohammad Reza Pahlavi dies in Cairo, Egypt, after a cancer operation
+1980-07-18    Shapour Bakhtiar escaped an assassination attempt
+1980-07-09    Nojeh coup plot
 1980-04-24    Operation Eagle Claw (Tabas) failed
 1980-03-25    Shah Mohammad Reza Pahlavi returns to Egypt
 1980-01-25    1980 Iranian presidential election (Banisadr vs Madani)
 1979-12-15    Shah Pahlavi leaves the U.S. for Panama
+1979-12-02    1979 Iranian constitutional referendum
 1979-11-06    Mehdi Bazargan's cabinet resigns
 1979-11-04    Iran hostage crisis begin
 1979-10-22    Shah Pahlavi arrives in the United States for cancer treatment
 1979-09-09    Taleghani died
 1979-04-23    Mohammad-Vali Gharani executed
 1979-04-07    Amir-Abbas Hoveyda executed
+1979-02-11    22 Bahman 1357
 1979-02-01    Khomeini returns to Iran from France after fifteen years of exile
 1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
 1978-09-08    Black Friday (17 Shahrivar 1357)
