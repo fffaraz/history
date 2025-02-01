@@ -279,6 +279,7 @@ Timeline of important historical events
 1952-10-07    Vladimir Putin birthday
 1952-10       Mossadegh expelled the British embassy
 1952-07-22    Anglo-Iranian Oil Co. case closed
+1951-12-20    First nuclear power plant generated electricity
 1951-10       Mossadegh paid a visit to the United States
 1951-05-26    UK took Iran to the ICJ
 1951-04-09    Sadegh Hedayat died
