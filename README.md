@@ -156,7 +156,8 @@ Timeline of important historical events
 1992-09-17    Mykonos restaurant assassinations (Chain murders of Iran)
 1992-08-07    Fereydoun Farrokhzad assassinated (Chain murders of Iran)
 1991-12-26    Cold War end
-1991-08-06    Shapour Bakhtiar murdered (Chain murders of Iran)
+1991-08-06    Shapour Bakhtiar murdered in France (Chain murders of Iran)
+1991-04-18    Abdorrahman Boroumand assassinated in France (Chain murders of Iran)
 1990-06-21    1990 Manjil–Rudbar earthquake
 1989-11-09    Berlin Wall destruction
 1989-10-02    George Hotz birthday
