@@ -35,6 +35,7 @@ Timeline of important historical events
 2022-10-26    Elon Musk enters Twitter HQ
 2022-10-12    Asra Panahi died
 2022-10-02    Khodanur Lojei died
+2022-09-28    September–October 2022 attacks on Iraqi Kurdistan
 2022-09-28    Baraye song by Shervin Hajipour released
 2022-09-23    Sarina Esmailzadeh died
 2022-09-21    Hadis Najafi died
@@ -43,6 +44,7 @@ Timeline of important historical events
 2022-05-23    Metropol building collapse in Abadan
 2022-04-05    Imam Reza shrine stabbings
 2021-09-12    Toomaj Salehi arrested
+2021-08-15    Taliban took control of Afghanistan
 2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
 2021-01-06    January 6 United States Capitol attack
 2020-12       COVID-19 vaccines authorized for emergency use
@@ -95,6 +97,7 @@ Timeline of important historical events
 2010-02-23    Abdolmalek Rigi arrested
 2009-12-30    30 December 2009 Iranian pro-government rallies (9 Dey 1388)
 2009-12-19    Hussein-Ali Montazeri died
+2009-07-15    Caspian Airlines Flight 7908 crashed
 2009-06-20    Neda Agha-Soltan fatally shot
 2009-06-19    Ali Khamenei backs election result in Friday prayer
 2009-06-15    Sohrab Aarabi died
@@ -112,6 +115,7 @@ Timeline of important historical events
 2006-03-02    a bomb exploded in Kianpars
 2006-02-27    two bomb exploded in Dezful and Abadan
 2006-01-25    two bomb exploded in Ahvaz
+2005-12-06    2005 Iranian Air Force C-130 crash
 2005-10-15    two bomb exploded in Ahvaz
 2005-06-17    2005 Iranian presidential election 1384 (Ahmadinejad vs Rafsanjani)
 2005-06-12    four bombs exploded in Ahvaz
@@ -123,12 +127,15 @@ Timeline of important historical events
 2003-06-12    2003 Iranian student protests
 2003-03-20    2003 invasion of Iraq
 2003-03-08    Ali-Akbar Mousavi Khoeini speech in parliament
+2003-02-19    2003 Iran Ilyushin Il-76 crash
 2002-11-16    2002–2004 SARS-CoV-1 outbreak began in China
 2002-08-14    Existence of two secret nuclear facilities at Natanz and Arak revealed
+2002-02-12    Iran Airtour Flight 956 crashed
 2001-12-02    Enron filed for bankruptcy
 2001-10-07    Operation Enduring Freedom begun in Afghanistan
 2001-09-11    September 11 attacks
 2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
+2001-05-17    2001 Faraz Qeshm Airlines Yak-40 crash
 2000-11-07    2000 United States presidential election (Bush vs Al Gore)
 2000-04-07    Iran After the Elections conference (Berlin Conference)
 2000-03-12    Saeed Hajjarian assassination attempt
@@ -151,6 +158,7 @@ Timeline of important historical events
 1997-01-15    Ahmad Tafazzoli murdered (Chain murders of Iran)
 1996-11-05    1996 United States presidential election (Clinton vs Dole)
 1995-01-20    Mehdi Bazargan died
+1995-01-05    Mansour Sattari died in a suspicious plane crash
 1994-11-28    Ali-Akbar Sa'idi Sirjani murdered (Chain murders of Iran)
 1994-06-20    Imam Reza shrine bombing
 1994-06-24    Mehdi Dibaj abducted (Chain murders of Iran)
@@ -161,7 +169,10 @@ Timeline of important historical events
 1991-12-26    Cold War end
 1991-08-06    Shapour Bakhtiar murdered in France (Chain murders of Iran)
 1991-04-18    Abdorrahman Boroumand assassinated in France (Chain murders of Iran)
+1991-02-28    Gulf War end (Liberation of Kuwait campaign)
+1990-08-02    Gulf War begin
 1990-06-21    1990 Manjil–Rudbar earthquake
+1989-12-20    United States invasion of Panama
 1989-11-09    Berlin Wall destruction
 1989-10-02    George Hotz birthday
 1989-07-28    1989 Iranian presidential election 1368 (Rafsanjani vs Sheibani)
@@ -175,19 +186,23 @@ Timeline of important historical events
 1988-07       1988 executions of Iranian political prisoners
 1988-07-03    Iran Air Flight 655 shot down
 1987-10-19    Black Monday Stock Market Crash
+1987-09-28    Mehdi Hashemi executed
+1987-08-06    Abbas Babaei killed by accident
 1987-06-28    Chemical bombing of Sardasht
 1986-11       Iran-Contra affair revealed
 1986-04-26    Chernobyl disaster
 1986-01-28    Space Shuttle Challenger disaster
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
+1984-02-25    Bahram Afzali executed
 1983
 1982-09-16    Sadegh Ghotbzadeh executed
+1982-07-21    Abbas Doran attacked the Al-Doura refinery in Baghdad
 1982-05-24    Liberation of Khorramshahr
 1982-04-08    Sadegh Ghotbzadeh arrested
 1981-12-15    1981 Iraqi embassy bombing in Beirut
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
-1981-09-29    1981 Iranian Air Force C-130 crash
+1981-09-29    1981 Iranian Air Force C-130 crash (Javad Fakoori, Mousa Namjoo, Valiollah Fallahi, Mohammad Jahanara)
 1981-08-30    1981 Iranian Prime Minister's office bombing (Rajai, Bahonar, ...)
 1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
 1981-06-28    Haft-e Tir bombing (Beheshti, Montazeri, ...)
@@ -199,20 +214,24 @@ Timeline of important historical events
 1980-11-07    Sadegh Ghotbzadeh first arrested
 1980-11-04    1980 United States presidential election (Reagan vs Carter)
 1980-09-30    Operation Scorch Sword (Iran attacked Baghdad Nuclear Research Facility)
+1980-09-23    Operation Kaman 99 or Operation Alborz
 1980-09-22    Iraqi invasion of Iran
 1980-07-27    Shah Mohammad Reza Pahlavi dies in Cairo, Egypt, after a cancer operation
-1980-07-18    Shapour Bakhtiar escaped an assassination attempt
-1980-07-09    Nojeh coup plot
+1980-07-18    Shapour Bakhtiar escaped an assassination attempt in France
+1980-07-09    Nojeh coup plot failed
 1980-04-24    Operation Eagle Claw (Tabas) failed
 1980-03-25    Shah Mohammad Reza Pahlavi returns to Egypt
 1980-01-25    1980 Iranian presidential election (Banisadr vs Madani)
 1979-12-15    Shah Pahlavi leaves the U.S. for Panama
-1979-12-02    1979 Iranian constitutional referendum
+1979-12-02    1979 Iranian constitutional referendum (11,12 Azar 1358)
 1979-11-06    Mehdi Bazargan's cabinet resigns
 1979-11-04    Iran hostage crisis begin
 1979-10-22    Shah Pahlavi arrives in the United States for cancer treatment
-1979-09-09    Taleghani died
+1979-09-09    Mahmoud Taleghani died
+1979-09-02    Qarna massacre (1979 Kurdish rebellion in Iran)
+1979-08-14    Paveh war (1979 Kurdish rebellion in Iran)
 1979-04-23    Mohammad-Vali Gharani executed
+1979-04-20    Naqadeh war (1979 Kurdish rebellion in Iran)
 1979-04-07    Amir-Abbas Hoveyda executed
 1979-02-11    The armed forces declare neutrality, and any remnants of the Shah’s government collapse (22 Bahman 1357)
 1979-02-10    Bakhtiar announces country-wide curfew and martial law
@@ -296,6 +315,7 @@ Timeline of important historical events
 1950-08-11    Steve Wozniak birthday
 1949-11-12    National Front party founded
 1949-07-17    Gass-Gulshaiyan Supplemental Oil Agreement
+1949-06-08    Nineteen Eighty-Four (1984) by George Orwell published
 1948-11-02    1948 United States presidential election (Truman vs Dewey)
 1947-03-12    Cold War begin
 1946-11       Iran crisis of 1946
