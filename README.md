@@ -8,7 +8,7 @@ Timeline of important historical events
 2024-12-26    DeepSeek-V3 launched
 2024-12-08    Fall of the Assad regime
 2024-11-14    Ahoo Daryaei responded in protest by removing her clothes
-2024-11-13    Kianush Sanjari died
+2024-11-13    Kianush Sanjari died by suicide
 2024-11-05    2024 United States presidential election (Trump vs Kamala)
 2024-10-26    October 2024 Israeli strikes on Iran
 2024-10-16    Yahya Sinwar died
@@ -32,6 +32,7 @@ Timeline of important historical events
 2022-11-16    Kian Pirfalak and Aylar Haghi died
 2022-10-30    Toomaj Salehi arrested
 2022-10-26    2022 Shah Cheragh attack
+2022-10-26    Elon Musk enters Twitter HQ
 2022-10-12    Asra Panahi died
 2022-10-02    Khodanur Lojei died
 2022-09-28    Baraye song by Shervin Hajipour released
@@ -58,7 +59,7 @@ Timeline of important historical events
 2019-12       SARS-CoV-2 leaked
 2019-11-16    2019 Internet blackout in Iran
 2019-11-16    Mahshahr massacre
-2019-11-15    Bloody Aban 98
+2019-11-15    Bloody Aban 98 (fuel price increased)
 2019-06-20    US drone shot down by Iran over the Strait of Hormuz
 2019-04-27    Behrooz Hajilu incident
 2018-09-22    Ahvaz military parade attack
@@ -101,9 +102,11 @@ Timeline of important historical events
 2009-01-09    Bitcoin initial release
 2008-11-04    2008 United States presidential election (Obama vs McCain)
 2008-09-15    Lehman Brothers filed for bankruptcy
+2008-09-04    Twitter gets blocked in Iran
 2008-04-12    Shiraz bombing killed 14
 2007-02-14    2007 Zahedan bombings
 2006-06-12    Iranian women peacefully protested in Tehran's Hafte Tir Square (22 Khordad 1385)
+2006-03-21    First tweet was sent by Jack Dorsey
 2006-03-18    Akbar Ganji released from prison
 2006-03-16    Attack on Tasooki
 2006-03-02    a bomb exploded in Kianpars
@@ -230,10 +233,12 @@ Timeline of important historical events
 1978-04-08    Bazargan's house in Tehran was bombed
 1977-10-23    Mostafa Khomeini died at age 47 in Najaf, Iraq 
 1977-08-07    Jamshid Amouzegar replaces Amir-Abbas Hoveyda
+1977-06-18    Ali Shariati died
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1976-09-09    Mao Zedong died
 1975-04-30    Vietnam War end
 1974-08-08    President Nixon resigned, Gerald Ford assumed the presidency
+1974-02-18    Khosrow Golsorkhi executed
 1973-09-11    1973 Chilean coup d'état
 1972-11-07    1972 United States presidential election (Nixon vs McGovern)
 1971-10       2,500-year celebration of the Persian Empire
@@ -245,6 +250,8 @@ Timeline of important historical events
 1969-09-09    Jalal Al-e-Ahmad died
 1969-07-16    Apollo 11 launched
 1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
+1968-08-31    Samad Behrangi died
+1968-01-07    Gholamreza Takhti died
 1967-03-05    Mohammad Mosaddegh died
 1967-02-13    Forugh Farrokhzad died
 1966
@@ -333,9 +340,10 @@ Timeline of important historical events
 1927-09-04    John McCarthy birthday
 1926
 1925-12-15    Reza Pahlavi officially crowned as the Shah of Iran
+1925-07-18    Mein Kampf published
 1924-01-21    Vladimir Lenin died
-1923
-1922
+1923-11-08    Beer Hall Putsch (Munich Putsch) Hitler coup failed
+1922-10-28    March on Rome - Mussolini ascending to power
 1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
 1920-04       1918 Spanish flu end
 1919-10-26    Mohammad Reza Pahlavi birthday
@@ -512,6 +520,7 @@ Timeline of important historical events
 ```
 
 * https://en.wikipedia.org/wiki/List_of_monarchs_of_Iran
+* https://en.wikipedia.org/wiki/Pishdadian_dynasty
 * https://en.wikipedia.org/wiki/List_of_richest_Americans_in_history
 * https://www.brookings.edu/articles/the-iranian-revolution-a-timeline-of-events/
 * https://en.wikipedia.org/wiki/2011%E2%80%932012_Iranian_protests
