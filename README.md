@@ -200,6 +200,7 @@ Timeline of important historical events
 1982-07-21    Abbas Doran attacked the Al-Doura refinery in Baghdad
 1982-05-24    Liberation of Khorramshahr
 1982-04-08    Sadegh Ghotbzadeh arrested
+1982-01-25    1982 Amol uprising
 1981-12-15    1981 Iraqi embassy bombing in Beirut
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
 1981-09-29    1981 Iranian Air Force C-130 crash (Javad Fakoori, Mousa Namjoo, Valiollah Fallahi, Mohammad Jahanara)
@@ -256,6 +257,7 @@ Timeline of important historical events
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1976-09-09    Mao Zedong died
 1975-04-30    Vietnam War end
+1974-11-27    The Deer (Gavaznhā) by Masoud Kimiai released
 1974-08-08    President Nixon resigned, Gerald Ford assumed the presidency
 1974-02-18    Khosrow Golsorkhi executed
 1973-09-11    1973 Chilean coup d'état
@@ -264,15 +266,20 @@ Timeline of important historical events
 1971-09-11    Nikita Khrushchev died
 1971-08-15    Nixon ends convertibility of U.S. dollars to gold and announces wage/price controls
 1971-06-28    Elon Musk birthday
+1971-05-24    Amir Parviz Pooyan died at age 25 (3 Khordad 1350)
+1971-05-18    Bahrain separation from Iran
+1971-02-08    Siahkal incident
 1970-09-28    Gamal Abdel Nasser died
+1969-12-31    Qeysar by Masoud Kimiai released
 1969-12-28    Linus Torvalds birthday
 1969-09-09    Jalal Al-e-Ahmad died
 1969-07-16    Apollo 11 launched
 1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
-1968-08-31    Samad Behrangi died
-1968-01-07    Gholamreza Takhti died
+1968-08-31    Samad Behrangi drowned in the Aras river at age 29
+1968-08       The Little Black Fish by Samad Behrangi published
+1968-01-07    Gholamreza Takhti died at age 37
 1967-03-05    Mohammad Mosaddegh died
-1967-02-13    Forugh Farrokhzad died
+1967-02-13    Forugh Farrokhzad died at age 32
 1966
 1965-09-05    Khomeini moved to Najaf, Iraq
 1965-01-21    Hassan Ali Mansur assassinated
@@ -288,6 +295,7 @@ Timeline of important historical events
 1959
 1958
 1957-12-04    Eric S. Raymond birthday
+1957-11-12    Bahrain declared a province of Iran
 1956-11-06    1956 United States presidential election (Eisenhower vs Stevenson)
 1956-07-30    Nasser announces the nationalisation of the Suez Canal
 1955-11-01    Vietnam War begin
@@ -364,6 +372,7 @@ Timeline of important historical events
 1924-01-21    Vladimir Lenin died
 1923-11-08    Beer Hall Putsch (Munich Putsch) Hitler coup failed
 1922-10-28    March on Rome - Mussolini ascending to power
+1921-12-02    Mirza Kuchik Khan died
 1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
 1920-04       1918 Spanish flu end
 1919-10-26    Mohammad Reza Pahlavi birthday
@@ -387,11 +396,13 @@ Timeline of important historical events
 1910
 1909-04-30    Russian occupation of Tabriz
 1909-04-14    Anglo-Persian Oil Company founded
+1908-06-23    1908 bombardment of the Majlis
 1908-05-26    William Knox D'Arcy, a British-Australian, discover oil in southwestern Persia
 1908-04-01    Abraham Maslow birthday
+1907-10-07    Persian Constitutional Amendment of 1907
 1907-08-31    Anglo-Russian Convention of 1907
 1907          1907 Bankers' Panic or Knickerbocker Crisis
-1906-08-05    Constitutional monarchy established by Mozaffar ad-Din Shah Qajar
+1906-08-05    Constitutional monarchy established by Mozaffar ad-Din Shah Qajar (Persian Constitution of 1906)
 1905
 1904
 1903-12-28    John von Neumann birthday
