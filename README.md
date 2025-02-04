@@ -146,6 +146,7 @@ Timeline of important historical events
 2001-10-07    Operation Enduring Freedom begun in Afghanistan
 2001-09-11    September 11 attacks
 2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
+2001-06       Saeed Emami's Wife (Fahimeh Dorri) video leaked
 2001-05-17    2001 Faraz Qeshm Airlines Yak-40 crash
 2000-11-07    2000 United States presidential election (Bush vs Al Gore)
 2000-04-07    Iran After the Elections conference (Berlin Conference)
@@ -163,11 +164,13 @@ Timeline of important historical events
 1998-08-23    Asadollah Lajevardi assassinated
 1998-08-08    1998 killing of Iranian diplomats in Afghanistan
 1998-04-04    Gholamhossein Karbaschi arrested
+1998-03-17    Sharif students bus crash
 1997-12-15    Ebrahim Yazdi arrested
 1997-05-23    1997 Iranian presidential election 1376 (2 Khordad) (Khatami vs Nategh-Nouri)
 1997-02-22    Ebrahim Zalzadeh murdered (Chain murders of Iran)
 1997-01-15    Ahmad Tafazzoli murdered (Chain murders of Iran)
 1996-11-05    1996 United States presidential election (Clinton vs Dole)
+1996-08-06    Assassination attempt on the Iranian writers' bus (Chain murders of Iran)
 1995-01-20    Mehdi Bazargan died
 1995-01-05    Mansour Sattari died in a suspicious plane crash
 1994-11-28    Ali-Akbar Sa'idi Sirjani murdered (Chain murders of Iran)
