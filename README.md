@@ -216,6 +216,7 @@ Timeline of important historical events
 1984-02-25    Bahram Afzali executed
 1984-02-07    Arteshbod Gholam Ali Oveissi assassinated in France
 1983
+1982-12-18    Universities opened in Iran after 30 months
 1982-09-16    Sadegh Ghotbzadeh executed
 1982-07-21    Abbas Doran attacked the Al-Doura refinery in Baghdad
 1982-07-04    1982 kidnapping of Iranian diplomats in Lebanon (Ahmad Motevaselian)
@@ -230,6 +231,7 @@ Timeline of important historical events
 1981-06-28    Haft-e Tir bombing (Beheshti, Montazeri, ...)
 1981-06-20    20 June 1981 Iranian protests (30 Khordad 1360)
 1981-06-07    Operation Opera (Israel destroyed Iraqi nuclear reactor)
+1981-06       1981–1982 Iran Massacres
 1981-04-04    H-3 airstrike
 1981-01-20    Iran hostage crisis end
 1980-11-27    Operation Morvarid
@@ -241,6 +243,7 @@ Timeline of important historical events
 1980-07-27    Shah Mohammad Reza Pahlavi dies in Cairo, Egypt, after a cancer operation
 1980-07-18    Shapour Bakhtiar escaped an assassination attempt in France
 1980-07-09    Nojeh coup plot failed
+1980-06-12    Cultural Revolution in Iran begun (all universities shut down)
 1980-05-08    Farrokhroo Parsa executed
 1980-04-24    Operation Eagle Claw (Tabas) failed
 1980-03-25    Shah Mohammad Reza Pahlavi returns to Egypt
