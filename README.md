@@ -83,7 +83,7 @@ Timeline of important historical events
 2016-01-12    2016 U.S.–Iran naval incident
 2015-09-30    Russian intervention in the Syrian civil war supporting the Assad regime
 2015-07-14    JCPOA signed
-2014
+2014-08-19    Simin Behbahani died
 2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2012-05-28    Flame (malware) discovered
@@ -99,6 +99,7 @@ Timeline of important historical events
 2009-12-30    30 December 2009 Iranian pro-government rallies (9 Dey 1388)
 2009-12-19    Hussein-Ali Montazeri died
 2009-07-15    Caspian Airlines Flight 7908 crashed
+2009-07-09    18 Tir anniversary protests
 2009-06-20    Neda Agha-Soltan fatally shot
 2009-06-19    Ali Khamenei backs election result in Friday prayer
 2009-06-15    Sohrab Aarabi died
@@ -107,12 +108,21 @@ Timeline of important historical events
 2008-11-04    2008 United States presidential election (Obama vs McCain)
 2008-09-15    Lehman Brothers filed for bankruptcy
 2008-09-04    Twitter gets blocked in Iran
+2008-06-13    Ma hastim protests in Mashhad
 2008-04-12    Shiraz bombing killed 14
+2007-12-03    Canada's ambassador to Iran has been ordered to leave the country
+2007-10       Iranian student demonstrations
+2007-05-09    Majid Tavakoli arrested
 2007-02-14    2007 Zahedan bombings
+2006-12-06    Students of Amir Kabir University demonstrations
+2006-12-06    Students of Tehran University demonstrations
+2006-11-25    Majid Tavakoli protets at Tehran Polytechnic
+2006-07-30    Akbar Mohammadi died in Evin prison
 2006-06-12    Iranian women peacefully protested in Tehran's Hafte Tir Square (22 Khordad 1385)
 2006-03-21    First tweet was sent by Jack Dorsey
 2006-03-18    Akbar Ganji released from prison
 2006-03-16    Attack on Tasooki
+2006-03-08    Women's Day demonstrations in Iran
 2006-03-02    a bomb exploded in Kianpars
 2006-02-27    two bomb exploded in Dezful and Abadan
 2006-01-25    two bomb exploded in Ahvaz
@@ -172,6 +182,7 @@ Timeline of important historical events
 1991-08-06    Shapour Bakhtiar murdered in France (Chain murders of Iran)
 1991-04-18    Abdorrahman Boroumand assassinated in France (Chain murders of Iran)
 1991-02-28    Gulf War end (Liberation of Kuwait campaign)
+1990-08-26    Mehdi Akhavan-Sales died
 1990-08-02    Gulf War begin
 1990-06-21    1990 Manjil–Rudbar earthquake
 1989-12-20    United States invasion of Panama
@@ -195,11 +206,14 @@ Timeline of important historical events
 1986-04-26    Chernobyl disaster
 1986-01-28    Space Shuttle Challenger disaster
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
+1985-03-16    Mehdi Bakeri died
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
+1984-03-07    Mohammad Ebrahim Hemmat died
 1984-02-25    Bahram Afzali executed
 1983
 1982-09-16    Sadegh Ghotbzadeh executed
 1982-07-21    Abbas Doran attacked the Al-Doura refinery in Baghdad
+1982-07-04    1982 kidnapping of Iranian diplomats in Lebanon (Ahmad Motevaselian)
 1982-05-24    Liberation of Khorramshahr
 1982-04-08    Sadegh Ghotbzadeh arrested
 1982-01-25    1982 Amol uprising
@@ -247,6 +261,7 @@ Timeline of important historical events
 1979-01-04    Shapour Bakhtiar replaces Gholamreza Azhari
 1978-12-29    The Shah appoints Shapour Bakhtiar as prime minister
 1978-11-06    Prime Minister Sharif-Emami resigns, succeeded by Gen. Gholamreza Azhari
+1978-11-04    13 Aban 1357 (Pupil Day)
 1978-10-03    Khomeini deported from Iraq and travels to France
 1978-09-08    Black Friday (17 Shahrivar 1357)
 1978-08-31    Musa al-Sadr went missing
@@ -307,6 +322,7 @@ Timeline of important historical events
 1954-03-13    Hossein Fatemi arrested
 1954-06-07    Alan Turing died
 1953-12-21    Mosaddegh was sentenced three years' solitary confinement
+1953-12-07    16 Azar 1332 Incident (Student Day)
 1953-08-19    1953 Iranian coup d'état (28 Mordad 1332)
 1953-08-18    The shah and queen arrived in Rome
 1953-08-16    Shah Mohammed Reza Pahlevi and Queen Soraya fled to Iraq
@@ -314,11 +330,12 @@ Timeline of important historical events
 1953-03-05    Joseph Stalin died
 1952-11-04    1952 United States presidential election (Eisenhower vs Stevenson)
 1952-10-07    Vladimir Putin birthday
-1952-10       Mossadegh expelled the British embassy
+1952-10       Mosaddegh expelled the British embassy
 1952-07-22    Anglo-Iranian Oil Co. case closed
 1951-12-20    First nuclear power plant generated electricity
-1951-10       Mossadegh paid a visit to the United States
+1951-10       Mosaddegh paid a visit to the United States
 1951-05-26    UK took Iran to the ICJ
+1951-04-22    Mohammad-Taqi Bahar died
 1951-04-09    Sadegh Hedayat died
 1951-03-15    Nationalization of the Iranian oil industry
 1951-03-07    Prime Minister Haj Ali Razmara was assassinated by the Fada'iyan-e Islam
@@ -338,14 +355,17 @@ Timeline of important historical events
 1945-04-28    Benito Mussolini died
 1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
 1944-07-26    Reza Shah Pahlavi died
+1944-06-06    Normandy landings
 1944          Bretton Woods international monetary agreement
-1943
+1943-11-28    Tehran Conference
 1942-01-08    Stephen Hawking birthday
 1942          Iranian famine of 1942–1943
 1941-09-16    Reza Shah Pahlavi of Iran abdicated in favor of his son, Mohammad Reza Pahlavi
 1941-08-25    Anglo-Soviet invasion of Iran
+1941-04-04    Parvin E'tesami died at age 34
 1941-02-07    Leslie Lamport birthday
 1940-11-05    1940 United States presidential election (Roosevelt vs Willkie)
+1939-10-18    Mohammad Farrokhi Yazdi died
 1939-09-01    World War II (begin)
 1938-01-10    Donald Knuth birthday
 1937-05-23    John D. Rockefeller died
@@ -354,6 +374,7 @@ Timeline of important historical events
 1935-03-21    Reza Shah changed the name of the country from Persia to Iran
 1934-01-30    Gold Reserve Act
 1934          University of Tehran established
+1933-10-03    Abdolhossein Teymourtash died
 1933-08-25    Haavara Agreement
 1933-05-29    California-Arabian Standard Oil founded
 1933-04-05    Executive Order 6102 forbidding the hoarding of gold in US
@@ -368,13 +389,15 @@ Timeline of important historical events
 1928-06-13    John Forbes Nash Jr. birthday
 1927-10-14    Turkish Petroleum Company struck oil in Iraq
 1927-09-04    John McCarthy birthday
-1926
+1926-03-14    Iraj Mirza died
 1925-12-15    Reza Pahlavi officially crowned as the Shah of Iran
 1925-07-18    Mein Kampf published
+1924-08-03    Mirzadeh Eshghi assassinated
 1924-01-21    Vladimir Lenin died
 1923-11-08    Beer Hall Putsch (Munich Putsch) Hitler coup failed
 1922-10-28    March on Rome - Mussolini ascending to power
 1921-12-02    Mirza Kuchik Khan died
+1921-02-26    Russo-Persian Treaty of Friendship (1921)
 1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
 1920-04       1918 Spanish flu end
 1919-10-26    Mohammad Reza Pahlavi birthday
@@ -435,6 +458,7 @@ Timeline of important historical events
 1844-10-15    Friedrich Nietzsche birthday
 1844-05-23    `Abdu'l-Bahá birthday
 1835-11-25    Andrew Carnegie birthday
+1829-01-30    Massacre at the Russian Embassy in Tehran
 1828-09-09    Leo Tolstoy birthday
 1828-02-22    Treaty of Turkmenchay
 1827-03-26    Ludwig van Beethoven died in Vienna #music
@@ -559,3 +583,4 @@ Timeline of important historical events
 * https://en.wikipedia.org/wiki/2011%E2%80%932012_Iranian_protests
 * https://en.wikipedia.org/wiki/2017%E2%80%932018_Iranian_protests
 * https://en.wikipedia.org/wiki/2019%E2%80%932020_Iranian_protests
+* https://en.wikipedia.org/wiki/Timeline_of_the_2009_Iranian_election_protests
