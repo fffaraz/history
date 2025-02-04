@@ -25,6 +25,7 @@ Timeline of important historical events
 2024-01-03    2024 Kerman bombings
 2023-11-29    Henry Kissinger died
 2023-10-07    October 7 Hamas-led attack on Israel
+2023-06-09    Firouz Naderi died
 2023-05-19    Saleh Mirhashemi and Majid Kazemi and Saeed Yaghoobi executed
 2023-01-07    Mohammad Mehdi Karami and Seyyed Mohammad Hosseini executed
 2022-12-12    Majidreza Rahnavard executed
@@ -213,6 +214,7 @@ Timeline of important historical events
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
 1984-03-07    Mohammad Ebrahim Hemmat died
 1984-02-25    Bahram Afzali executed
+1984-02-07    Arteshbod Gholam Ali Oveissi assassinated in France
 1983
 1982-09-16    Sadegh Ghotbzadeh executed
 1982-07-21    Abbas Doran attacked the Al-Doura refinery in Baghdad
@@ -239,10 +241,12 @@ Timeline of important historical events
 1980-07-27    Shah Mohammad Reza Pahlavi dies in Cairo, Egypt, after a cancer operation
 1980-07-18    Shapour Bakhtiar escaped an assassination attempt in France
 1980-07-09    Nojeh coup plot failed
+1980-05-08    Farrokhroo Parsa executed
 1980-04-24    Operation Eagle Claw (Tabas) failed
 1980-03-25    Shah Mohammad Reza Pahlavi returns to Egypt
 1980-01-25    1980 Iranian presidential election (Banisadr vs Madani)
 1979-12-15    Shah Pahlavi leaves the U.S. for Panama
+1979-12-07    Shahriar Shafiq assassinated in France
 1979-12-02    1979 Iranian constitutional referendum (11,12 Azar 1358)
 1979-11-06    Mehdi Bazargan's cabinet resigns
 1979-11-04    Iran hostage crisis begin
@@ -250,9 +254,14 @@ Timeline of important historical events
 1979-09-09    Mahmoud Taleghani died
 1979-09-02    Qarna massacre (1979 Kurdish rebellion in Iran)
 1979-08-14    Paveh war (1979 Kurdish rebellion in Iran)
+1979-05-09    Habib Elghanian, Rahim Ali Khorram executed
 1979-04-23    Mohammad-Vali Gharani executed
 1979-04-20    Naqadeh war (1979 Kurdish rebellion in Iran)
+1979-04-11    Abbas Ali Khalatbari, Gholamreza Nikpey, Nasser Moghaddam, Hassan Pakravan executed
+1979-04-09    Amir Hossein Rabii executed
 1979-04-07    Amir-Abbas Hoveyda executed
+1979-03-13    Nader Jahanbani executed
+1979-02-15    Mehdi Rahimi, Reza Naji, Nematollah Nassiri, Manouchehr Khosrodad executed
 1979-02-11    The armed forces declare neutrality, and any remnants of the Shah’s government collapse (22 Bahman 1357)
 1979-02-10    Bakhtiar announces country-wide curfew and martial law
 1979-02-04    Khomeini appoints Mehdi Bazargan as the prime minister
