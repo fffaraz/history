@@ -88,6 +88,7 @@ Timeline of important historical events
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2012-05-28    Flame (malware) discovered
 2012-02-14    Facebook, Twitter blocked in Iran
+2011-09       2011 Iranian embezzlement scandal
 2011-05-02    Osama bin Laden died
 2011-04-15    2011 Khuzestan protests
 2011-03-11    Fukushima nuclear accident
@@ -160,6 +161,7 @@ Timeline of important historical events
 1995-01-20    Mehdi Bazargan died
 1995-01-05    Mansour Sattari died in a suspicious plane crash
 1994-11-28    Ali-Akbar Sa'idi Sirjani murdered (Chain murders of Iran)
+1994-07-18    AMIA bombing in Buenos Aires, Argentina
 1994-06-20    Imam Reza shrine bombing
 1994-06-24    Mehdi Dibaj abducted (Chain murders of Iran)
 1993-06-11    1993 Iranian presidential election 1372 (Rafsanjani vs Tavakkoli)
