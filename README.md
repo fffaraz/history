@@ -328,6 +328,7 @@ Timeline of important historical events
 1958
 1957-12-04    Eric S. Raymond birthday
 1957-11-12    Bahrain declared a province of Iran
+1957          Two Centuries of Silence by Abdolhossein Zarrinkoob published
 1956-11-06    1956 United States presidential election (Eisenhower vs Stevenson)
 1956-07-30    Nasser announces the nationalisation of the Suez Canal
 1955-11-01    Vietnam War begin
@@ -373,6 +374,7 @@ Timeline of important historical events
 1944-06-06    Normandy landings
 1944          Bretton Woods international monetary agreement
 1943-11-28    Tehran Conference
+1943-04       The Little Prince by Antoine de Saint-Exupéry published
 1942-01-08    Stephen Hawking birthday
 1942          Iranian famine of 1942–1943
 1941-09-16    Reza Shah Pahlavi of Iran abdicated in favor of his son, Mohammad Reza Pahlavi
@@ -433,7 +435,7 @@ Timeline of important historical events
 1912-11-05    1912 United States presidential election (Wilson vs Taft)
 1912-06-23    Alan Turing birthday
 1911
-1910
+1910-11-20    Leo Tolstoy died at age 82
 1909-04-30    Russian occupation of Tabriz
 1909-04-14    Anglo-Persian Oil Company founded
 1908-06-23    1908 bombardment of the Majlis
@@ -460,6 +462,7 @@ Timeline of important historical events
 1872          Reuter concession
 1870          Persian famine of 1870–1872
 1869-09-24    Black Friday gold panic
+1869          War and Peace by Leo Tolstoy published
 1867-11-07    Marie Curie birthday 
 1864-11-08    1864 United States presidential election (Abraham Lincoln vs McClellan)
 1863-07-30    Henry Ford birthday
@@ -530,15 +533,17 @@ Timeline of important historical events
 1141          Nizami Ganjavi birthday
 1100
 1048-05-18    Omar Khayyam birthday
+1037-06-22    Ibn Sina died
 1000
  973-09-09    Al-Biruni birthday
  940          Ferdowsi birthday
+ 935          Zakaria Razi died
  868          Muhammad al-Mahdi (12th Shia Imam) birthday
  859          Rudaki birthday
  844          Hasan al-Askari (11th Shia Imam) birthday
  828          Ali al-Hadi (10th Shia Imam) birthday
  811          Muhammad al-Jawad (9th Shia Imam) birthday
- 780          Muhammad ibn Musa al-Khwarizmi birthday
+ 780          Al-Khwarizmi birthday
  766          Ali al-Rida (8th Shia Imam) birthday
  745          Musa al-Kazim (7th Shia Imam) birthday
  702          Ja'far al-Sadiq (6th Shia Imam) birthday
