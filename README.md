@@ -513,6 +513,7 @@ Timeline of important historical events
 1524-05-23    Shah Ismail I died
 1500
 1492-10-12    Christopher Columbus discovered the New World
+1487          Malleus Maleficarum published
 1473-02-19    Nicolaus Copernicus birthday
 1440          Invention of the printing press
 1400
